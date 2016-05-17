@@ -8,6 +8,8 @@
 [![Oh My Fish Framework](https://img.shields.io/badge/Oh%20My%20Fish-Framework-007EC7.svg?style=flat-square)](https://www.github.com/oh-my-fish/oh-my-fish)
 
 <br/>
+[![asciicast](https://asciinema.org/a/3199k7ohg0fp7aohjsc5jgxn1.png)](https://asciinema.org/a/3199k7ohg0fp7aohjsc5jgxn1)
+<br/>
 
 ## Install
 
