@@ -19,6 +19,8 @@ $ omf install https://github.com/pedrosnk/omf-wttr
 
 ## Usage
 
+### wttr
+
 ```fish
 # shows weather based on your location (IP)
 $ wttr
@@ -28,6 +30,18 @@ $ wttr Rio de Janeiro
 $ wttr New York
 $ wttr Montreal
 ```
+
+### moon
+
+```fish
+# show current phase of the Moon
+$ moon
+
+# show phase of the Moon on a very special day
+$ moon 1969-Jul-20
+```
+![moon 1969-07-20](https://cloud.githubusercontent.com/assets/2112697/15380766/9a9a743e-1d4f-11e6-9131-595c10b575f9.png)
+
 
 # License
 
