@@ -14,7 +14,7 @@
 ## Install
 
 ```fish
-$ omf install https://github.com/pedrosnk/omf-wttr
+$ omf install wttr
 ```
 
 ## Usage
