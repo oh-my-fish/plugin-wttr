@@ -3,6 +3,6 @@ function wttr -d "shows the weather to a given city eg. Rio de Janeiro"
     echo "Please install curl"
     return 5
   end
-  set url (echo $argv | sed -e 's/\ /%20/g')
+  set url (echo $argv | sed -E 's/\ /%20/g')
   curl -4 "https://wttr.in/$url"
 end
